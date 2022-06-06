@@ -11,5 +11,6 @@
   ## Random
   <a href="https://aphyr.com/posts/342-typing-the-technical-interview">:seedling: Typing the technical interview</a><br/>
   <a href="https://500mile.email/">:email: 500 Mile Email</a><br/>
-  <a href="https://james.hamsterrepublic.com/technomancy/">:sparkles: Technomancy</a>
+  <a href="https://james.hamsterrepublic.com/technomancy/">:sparkles: Technomancy</a><br/>
+  <a href="https://www.danielsen.com/jokes/objecttoaster.txt">:bread: Toaster</a>
 </p>
